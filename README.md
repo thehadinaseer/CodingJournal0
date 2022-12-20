@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hadi
 - 👀 I’m a YouTuber and I have two YouTube Channels:
-~ Coding Journal: https://www.youtube.com/@codingjournal
-~ Hush Codes: https://www.youtube.com/@hushcodes
+- Coding Journal: https://www.youtube.com/@codingjournal
+- Hush Codes: https://www.youtube.com/@hushcodes
 - 🌱 I’m will share the sourcecode of projects and tutorials here.
 - 💞️ I’m looking to collaborate on My dream project.
 - 📫 How to reach me : Instagram : https://www.instagram.com/codingjournal_org/
