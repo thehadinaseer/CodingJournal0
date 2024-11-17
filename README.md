@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Hadi & I'm learning Full Stack Web Development (AI).
-- 👀 Thanks for looking at my things and give your suggestions on Insta!
-- 🌱 I’m will more than happy to learn anything from you so don't forget leaving a tip for me.
-- 📫 How to reach me : Instagram : https://www.instagram.com/thehadinaseer/
+- 👋 Hi, I’m Hadi! I’m learning Full Stack Web Development with a touch of AI. 🚀
+- 👀 Check out my work and share your suggestions on Instagram! 💡
+- 🌱 I’m excited to learn from you, so feel free to drop some tips. 🙌
+
+- 📫 Reach me here:
+- Main Instagram: https://instagram.com/thehadinaseer
+- 📓 Follow my journey:
+- Daily progress and project updates: https://instagram.com/mystery.dev.log
 
 <!---
 thehadinaseer/thehadinaseer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
